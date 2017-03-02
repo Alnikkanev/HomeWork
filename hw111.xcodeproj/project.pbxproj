@@ -13,6 +13,7 @@
 		302882CE1E686A3A00555FC5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 302882CC1E686A3A00555FC5 /* Main.storyboard */; };
 		302882D01E686A3A00555FC5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 302882CF1E686A3A00555FC5 /* Assets.xcassets */; };
 		302882D31E686A3A00555FC5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 302882D11E686A3A00555FC5 /* LaunchScreen.storyboard */; };
+		302882DB1E686D7300555FC5 /* 1262964237_god-tigra.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 302882DA1E686D7300555FC5 /* 1262964237_god-tigra.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		302882CF1E686A3A00555FC5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		302882D21E686A3A00555FC5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		302882D41E686A3A00555FC5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		302882DA1E686D7300555FC5 /* 1262964237_god-tigra.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "1262964237_god-tigra.jpg"; path = "../../../../../../Downloads/1262964237_god-tigra.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				302882CF1E686A3A00555FC5 /* Assets.xcassets */,
 				302882D11E686A3A00555FC5 /* LaunchScreen.storyboard */,
 				302882D41E686A3A00555FC5 /* Info.plist */,
+				302882DA1E686D7300555FC5 /* 1262964237_god-tigra.jpg */,
 				302882C31E686A3900555FC5 /* Supporting Files */,
 			);
 			path = hw111;
@@ -139,6 +142,7 @@
 			files = (
 				302882D31E686A3A00555FC5 /* LaunchScreen.storyboard in Resources */,
 				302882D01E686A3A00555FC5 /* Assets.xcassets in Resources */,
+				302882DB1E686D7300555FC5 /* 1262964237_god-tigra.jpg in Resources */,
 				302882CE1E686A3A00555FC5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -218,7 +222,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -260,7 +264,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
